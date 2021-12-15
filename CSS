@@ -1,0 +1,79 @@
+.adg3 .saved-search-selector {
+    padding: 0;
+};
+.adg3 .navigator-search {
+    padding: 0;
+}
+p, ul, ol, dl, h1, h2, h3, h4, h5, h6, blockquote, pre, form, table {
+    margin: 0;
+}
+
+.adg3 .navigator-group {
+    padding: 0px;
+}
+
+.list-view .issue-table-info-bar {
+    margin: 0;
+}
+.adg3 .navigator-search {
+    padding: 0 0 0px;
+}
+
+.adg3 table.aui {
+    margin: 0px 0;
+}
+
+.css-18yfcg7 {
+    max-height: 35px;
+}
+.css-15i33f0 {
+    max-height: 35px;
+}
+.css-xusf84 {
+    max-height: 35px;
+}
+
+.navigator-search>.aui-group {
+
+  border-bottom:2px double grey;
+}
+
+.adg3 #issuetable tr {
+    outline: 1px dashed #6985C9;
+}
+
+#page-body > #content {
+  top: 35px !important;  
+  padding: 0 10px; /*Отступ основного контента слева*/
+}
+
+.list-view .issue-table-info-bar {
+    margin: 0;
+    height: 25px;
+    display: block;
+}
+
+.css-cdxr6t {
+    position: fixed;
+    top: 15px;
+}
+
+.adg3 .aui-list tr>td:not(.streorder), .adg3 .links-list tr>td:not(.streorder), .adg3 table.aui tr>td:not(.streorder) {
+    padding-top: 4px; /*Уменьшение высоты строки задачи*/
+    padding-bottom: 4px;
+}
+
+.adg3 table.aui>tbody>tr>td:first-child, .adg3 table.aui>tbody>tr>th:first-child, .adg3 table.aui>tfoot>tr>td:first-child, .adg3 table.aui>tfoot>tr>th:first-child, .adg3 table.aui>thead>tr>td:first-child, .adg3 table.aui>thead>tr>th:first-child {
+    padding-left: 2px;
+}
+
+/*Задача*/
+
+.dZXbBU .sc-183o9qd-0 {
+    margin-bottom: 0px; /*Уплотнение правой боковой панели*/
+}
+
+#content .issue-container--bento .aui-page-header {
+    padding-top: 0px;
+    padding-bottom: 8px;
+}
