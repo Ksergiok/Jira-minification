@@ -33,7 +33,6 @@ p, ul, ol, dl, h1, h2, h3, h4, h5, h6, blockquote, pre, form, table {
     max-height: 35px;
 }
 
-
 .navigator-search>.aui-group {
 
   border-bottom:2px double grey;
@@ -64,6 +63,7 @@ p, ul, ol, dl, h1, h2, h3, h4, h5, h6, blockquote, pre, form, table {
     padding-bottom: 4px;
 }
 
+
 .adg3 table.aui>tbody>tr>td:first-child, .adg3 table.aui>tbody>tr>th:first-child, .adg3 table.aui>tfoot>tr>td:first-child, .adg3 table.aui>tfoot>tr>th:first-child, .adg3 table.aui>thead>tr>td:first-child, .adg3 table.aui>thead>tr>th:first-child {
     padding-left: 2px;
 }
@@ -77,4 +77,50 @@ p, ul, ol, dl, h1, h2, h3, h4, h5, h6, blockquote, pre, form, table {
 #content .issue-container--bento .aui-page-header {
     padding-top: 0px;
     padding-bottom: 8px;
+}
+
+/*Пункт Планы*/
+.iSBXzm, .jgDgcL {
+    height: 35px !important;
+    margin-top: -10px !important;
+} 
+
+/*Левое меню*/
+
+.css-19vwd4h {
+    min-height: 30px;
+    font-size: 14px;
+    color: currentcolor;
+    cursor: pointer;
+    padding: 0px 14px;
+}
+
+/*Проект задачи*/
+.hVXdfO {
+    margin-left: 8px;
+}
+
+.css-160xfzw {
+    margin: 0;
+}
+
+.hcwgkl {
+    margin-bottom: 0px;
+}
+
+.Ycowb {
+    display: none;
+}
+
+#ak-main-content > div > div.yug8f2-0.gBACyq > div > table > tbody > tr > td:not(.streorder){
+  padding: 2px !important;
+  
+}
+
+#ak-main-content > div > div.yug8f2-0.gBACyq > div > table > tbody > tr{
+outline: 1px dashed #6985C9;
+}
+
+.css-1bzzes9 {
+    grid-template-rows: 10px;
 }
