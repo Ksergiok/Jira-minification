@@ -95,6 +95,11 @@ p, ul, ol, dl, h1, h2, h3, h4, h5, h6, blockquote, pre, form, table {
     padding: 0px 14px;
 }
 
+.css-116wlld {
+    top: 35px;
+    transition: width 100ms cubic-bezier(0.2, 0, 0, 1) 0s;
+}
+
 /*Проект задачи*/
 .hVXdfO {
     margin-left: 8px;
