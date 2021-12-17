@@ -13,6 +13,7 @@ p, ul, ol, dl, h1, h2, h3, h4, h5, h6, blockquote, pre, form, table {
     padding: 0px;
 }
 
+
 .list-view .issue-table-info-bar {
     margin: 0;
 }
@@ -24,15 +25,6 @@ p, ul, ol, dl, h1, h2, h3, h4, h5, h6, blockquote, pre, form, table {
     margin: 0px 0;
 }
 
-.css-18yfcg7 {
-    max-height: 35px;
-}
-.css-15i33f0 {
-    max-height: 35px;
-}
-.css-xusf84 {
-    max-height: 35px;
-}
 
 .navigator-search>.aui-group {
   border-bottom:2px double grey;
@@ -61,6 +53,24 @@ p, ul, ol, dl, h1, h2, h3, h4, h5, h6, blockquote, pre, form, table {
 .adg3 table.aui>tbody>tr>td:first-child, .adg3 table.aui>tbody>tr>th:first-child, .adg3 table.aui>tfoot>tr>td:first-child, .adg3 table.aui>tfoot>tr>th:first-child, .adg3 table.aui>thead>tr>td:first-child, .adg3 table.aui>thead>tr>th:first-child {
     padding-left: 2px;
 }/*Левый отступ списка задач*/
+
+/*Навигационное меню*/
+
+.css-18yfcg7 {
+    max-height: 35px;
+}
+.css-15i33f0 {
+    max-height: 35px;
+}
+.css-xusf84 {
+    max-height: 35px;
+}
+
+.sc-1iy1kz6-0, .sc-1b9p7ti-0, #ak-jira-navigation > header > nav > div.css-1jcz7qe > div:nth-child(1), #ak-jira-navigation > header > nav > div.css-1jcz7qe > div:nth-child(7) {
+  display:none; /*Скратие лишних кнопок в нав. меню*/
+  
+}
+
 
 /*Задача*/
 
